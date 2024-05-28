@@ -1,0 +1,183 @@
+2024-04-23 23:30:05,345:ERROR:users.csv not found, creating new dataframe.
+2024-04-23 23:30:12,023:ERROR:users.csv not found, creating new dataframe.
+2024-04-23 23:30:19,259:ERROR:users.csv not found, creating new dataframe.
+2024-04-23 23:30:24,493:ERROR:users.csv not found, creating new dataframe.
+2024-04-23 23:33:32,869:ERROR:users.csv not found, creating new dataframe.
+2024-04-23 23:33:37,132:ERROR:users.csv not found, creating new dataframe.
+2024-04-23 23:33:42,121:ERROR:users.csv not found, creating new dataframe.
+2024-04-23 23:33:48,219:ERROR:users.csv not found, creating new dataframe.
+2024-04-23 23:33:53,211:ERROR:users.csv not found, creating new dataframe.
+2024-04-23 23:33:57,543:ERROR:users.csv not found, creating new dataframe.
+2024-04-23 23:34:14,580:INFO:User sumeet logged in.
+2024-04-23 23:37:33,690:INFO:User sumeet logged in.
+2024-04-23 23:40:35,989:INFO:User sumeet logged in.
+2024-04-23 23:40:36,077:INFO:User logged out.
+2024-04-23 23:40:54,993:INFO:User sumeet logged in.
+2024-04-23 23:40:55,074:INFO:User logged out.
+2024-04-24 01:42:43,255:INFO:User sumeet1 logged in.
+2024-04-24 01:44:04,293:INFO:User sumeet1 logged in.
+2024-04-24 01:51:29,443:INFO:User sumeet logged in.
+2024-04-24 01:59:02,161:ERROR:services.csv not found, creating new dataframe.
+2024-04-24 01:59:02,165:ERROR:recurring.csv not found, creating new dataframe.
+2024-04-24 01:59:05,935:ERROR:services.csv not found, creating new dataframe.
+2024-04-24 01:59:05,937:ERROR:recurring.csv not found, creating new dataframe.
+2024-04-24 01:59:10,459:ERROR:services.csv not found, creating new dataframe.
+2024-04-24 01:59:10,462:ERROR:recurring.csv not found, creating new dataframe.
+2024-04-24 01:59:11,521:ERROR:services.csv not found, creating new dataframe.
+2024-04-24 01:59:11,525:ERROR:recurring.csv not found, creating new dataframe.
+2024-04-24 01:59:11,536:INFO:User sumeet logged in.
+2024-04-24 01:59:11,582:ERROR:services.csv not found, creating new dataframe.
+2024-04-24 01:59:11,584:ERROR:recurring.csv not found, creating new dataframe.
+2024-04-24 01:59:20,224:ERROR:services.csv not found, creating new dataframe.
+2024-04-24 01:59:20,226:ERROR:recurring.csv not found, creating new dataframe.
+2024-04-24 01:59:23,853:ERROR:services.csv not found, creating new dataframe.
+2024-04-24 01:59:23,856:ERROR:recurring.csv not found, creating new dataframe.
+2024-04-24 01:59:23,962:ERROR:services.csv not found, creating new dataframe.
+2024-04-24 01:59:23,969:ERROR:recurring.csv not found, creating new dataframe.
+2024-04-24 01:59:23,980:INFO:Viewed account info for 1.0.
+2024-04-24 01:59:32,493:ERROR:services.csv not found, creating new dataframe.
+2024-04-24 01:59:32,495:ERROR:recurring.csv not found, creating new dataframe.
+2024-04-24 01:59:34,884:ERROR:services.csv not found, creating new dataframe.
+2024-04-24 01:59:34,888:ERROR:recurring.csv not found, creating new dataframe.
+2024-04-24 01:59:43,333:ERROR:services.csv not found, creating new dataframe.
+2024-04-24 01:59:43,335:ERROR:recurring.csv not found, creating new dataframe.
+2024-04-24 01:59:48,197:ERROR:services.csv not found, creating new dataframe.
+2024-04-24 01:59:48,199:ERROR:recurring.csv not found, creating new dataframe.
+2024-04-24 01:59:49,302:ERROR:services.csv not found, creating new dataframe.
+2024-04-24 01:59:49,305:ERROR:recurring.csv not found, creating new dataframe.
+2024-04-24 02:07:13,572:ERROR:services.csv not found, creating new dataframe.
+2024-04-24 02:07:13,573:ERROR:recurring.csv not found, creating new dataframe.
+2024-04-24 02:07:18,281:ERROR:services.csv not found, creating new dataframe.
+2024-04-24 02:07:18,283:ERROR:recurring.csv not found, creating new dataframe.
+2024-04-24 02:07:21,513:ERROR:services.csv not found, creating new dataframe.
+2024-04-24 02:07:21,516:ERROR:recurring.csv not found, creating new dataframe.
+2024-04-24 02:07:21,609:ERROR:services.csv not found, creating new dataframe.
+2024-04-24 02:07:21,612:ERROR:recurring.csv not found, creating new dataframe.
+2024-04-24 02:07:21,618:INFO:User sumeet logged in.
+2024-04-24 02:07:21,663:ERROR:services.csv not found, creating new dataframe.
+2024-04-24 02:07:21,679:ERROR:recurring.csv not found, creating new dataframe.
+2024-04-24 02:07:27,356:ERROR:services.csv not found, creating new dataframe.
+2024-04-24 02:07:27,358:ERROR:recurring.csv not found, creating new dataframe.
+2024-04-24 02:07:31,053:ERROR:services.csv not found, creating new dataframe.
+2024-04-24 02:07:31,055:ERROR:recurring.csv not found, creating new dataframe.
+2024-04-24 02:07:32,508:ERROR:services.csv not found, creating new dataframe.
+2024-04-24 02:07:32,511:ERROR:recurring.csv not found, creating new dataframe.
+2024-04-24 02:07:32,520:INFO:Viewed account info for 1.0.
+2024-04-24 02:07:37,105:ERROR:services.csv not found, creating new dataframe.
+2024-04-24 02:07:37,108:ERROR:recurring.csv not found, creating new dataframe.
+2024-04-24 02:07:40,664:ERROR:services.csv not found, creating new dataframe.
+2024-04-24 02:07:40,665:ERROR:recurring.csv not found, creating new dataframe.
+2024-04-24 02:07:43,826:ERROR:services.csv not found, creating new dataframe.
+2024-04-24 02:07:43,827:ERROR:recurring.csv not found, creating new dataframe.
+2024-04-24 02:07:50,599:ERROR:services.csv not found, creating new dataframe.
+2024-04-24 02:07:50,600:ERROR:recurring.csv not found, creating new dataframe.
+2024-04-24 02:07:53,435:ERROR:services.csv not found, creating new dataframe.
+2024-04-24 02:07:53,438:ERROR:recurring.csv not found, creating new dataframe.
+2024-04-24 02:07:58,573:ERROR:services.csv not found, creating new dataframe.
+2024-04-24 02:07:58,574:ERROR:recurring.csv not found, creating new dataframe.
+2024-04-24 02:08:01,678:ERROR:services.csv not found, creating new dataframe.
+2024-04-24 02:08:01,680:ERROR:recurring.csv not found, creating new dataframe.
+2024-04-24 02:08:05,186:ERROR:services.csv not found, creating new dataframe.
+2024-04-24 02:08:05,189:ERROR:recurring.csv not found, creating new dataframe.
+2024-04-24 02:08:05,293:ERROR:services.csv not found, creating new dataframe.
+2024-04-24 02:08:05,297:ERROR:recurring.csv not found, creating new dataframe.
+2024-04-24 02:08:05,334:INFO:Withdrawal of 500.0 from account 1.0.
+2024-04-24 02:08:08,277:ERROR:services.csv not found, creating new dataframe.
+2024-04-24 02:08:08,282:ERROR:recurring.csv not found, creating new dataframe.
+2024-04-24 02:08:12,814:ERROR:services.csv not found, creating new dataframe.
+2024-04-24 02:08:12,816:ERROR:recurring.csv not found, creating new dataframe.
+2024-04-24 02:08:17,588:ERROR:services.csv not found, creating new dataframe.
+2024-04-24 02:08:17,589:ERROR:recurring.csv not found, creating new dataframe.
+2024-04-24 02:08:19,622:ERROR:services.csv not found, creating new dataframe.
+2024-04-24 02:08:19,624:ERROR:recurring.csv not found, creating new dataframe.
+2024-04-24 02:08:20,523:ERROR:services.csv not found, creating new dataframe.
+2024-04-24 02:08:20,526:ERROR:recurring.csv not found, creating new dataframe.
+2024-04-24 02:08:26,291:ERROR:recurring.csv not found, creating new dataframe.
+2024-04-24 02:11:47,645:ERROR:recurring.csv not found, creating new dataframe.
+2024-04-24 02:11:50,549:ERROR:recurring.csv not found, creating new dataframe.
+2024-04-24 02:11:53,441:ERROR:recurring.csv not found, creating new dataframe.
+2024-04-24 02:11:53,519:ERROR:recurring.csv not found, creating new dataframe.
+2024-04-24 02:11:53,529:INFO:User sumeet logged in.
+2024-04-24 02:11:53,585:ERROR:recurring.csv not found, creating new dataframe.
+2024-04-24 02:12:01,325:ERROR:recurring.csv not found, creating new dataframe.
+2024-04-24 02:12:01,418:ERROR:recurring.csv not found, creating new dataframe.
+2024-04-24 02:12:02,318:ERROR:recurring.csv not found, creating new dataframe.
+2024-04-24 02:12:02,533:ERROR:recurring.csv not found, creating new dataframe.
+2024-04-24 02:12:06,210:ERROR:recurring.csv not found, creating new dataframe.
+2024-04-24 02:15:08,360:ERROR:recurring.csv not found, creating new dataframe.
+2024-04-24 02:15:08,456:ERROR:recurring.csv not found, creating new dataframe.
+2024-04-24 02:15:11,136:ERROR:recurring.csv not found, creating new dataframe.
+2024-04-24 02:15:14,040:ERROR:recurring.csv not found, creating new dataframe.
+2024-04-24 02:15:14,125:ERROR:recurring.csv not found, creating new dataframe.
+2024-04-24 02:15:14,133:INFO:User sumeet logged in.
+2024-04-24 02:15:14,199:ERROR:recurring.csv not found, creating new dataframe.
+2024-04-24 02:15:18,249:ERROR:recurring.csv not found, creating new dataframe.
+2024-04-24 02:16:54,684:ERROR:recurring.csv not found, creating new dataframe.
+2024-04-24 02:16:57,530:ERROR:recurring.csv not found, creating new dataframe.
+2024-04-24 02:17:00,881:ERROR:recurring.csv not found, creating new dataframe.
+2024-04-24 02:17:00,968:ERROR:recurring.csv not found, creating new dataframe.
+2024-04-24 02:17:00,981:INFO:User sumeet logged in.
+2024-04-24 02:17:01,041:ERROR:recurring.csv not found, creating new dataframe.
+2024-04-24 02:17:06,615:ERROR:recurring.csv not found, creating new dataframe.
+2024-04-24 02:17:08,943:ERROR:recurring.csv not found, creating new dataframe.
+2024-04-24 02:18:02,305:ERROR:recurring.csv not found, creating new dataframe.
+2024-04-24 02:18:05,511:ERROR:recurring.csv not found, creating new dataframe.
+2024-04-24 02:18:07,809:ERROR:recurring.csv not found, creating new dataframe.
+2024-04-24 02:18:09,548:ERROR:recurring.csv not found, creating new dataframe.
+2024-04-24 02:18:09,557:INFO:User sumeet logged in.
+2024-04-24 02:18:09,612:ERROR:recurring.csv not found, creating new dataframe.
+2024-04-24 02:18:13,171:ERROR:recurring.csv not found, creating new dataframe.
+2024-04-24 02:18:42,147:ERROR:recurring.csv not found, creating new dataframe.
+2024-04-24 02:18:44,946:ERROR:recurring.csv not found, creating new dataframe.
+2024-04-24 02:18:48,317:ERROR:recurring.csv not found, creating new dataframe.
+2024-04-24 02:18:48,410:ERROR:recurring.csv not found, creating new dataframe.
+2024-04-24 02:18:48,421:INFO:User sumeet logged in.
+2024-04-24 02:18:48,478:ERROR:recurring.csv not found, creating new dataframe.
+2024-04-24 02:18:52,539:ERROR:recurring.csv not found, creating new dataframe.
+2024-04-24 02:18:54,335:ERROR:recurring.csv not found, creating new dataframe.
+2024-04-24 02:18:56,494:ERROR:recurring.csv not found, creating new dataframe.
+2024-04-24 02:18:58,275:ERROR:recurring.csv not found, creating new dataframe.
+2024-04-24 02:19:00,083:ERROR:recurring.csv not found, creating new dataframe.
+2024-04-24 02:19:01,864:ERROR:recurring.csv not found, creating new dataframe.
+2024-04-24 02:19:04,428:ERROR:recurring.csv not found, creating new dataframe.
+2024-04-24 02:19:08,591:ERROR:recurring.csv not found, creating new dataframe.
+2024-04-24 02:19:47,719:ERROR:recurring.csv not found, creating new dataframe.
+2024-04-24 02:19:50,579:ERROR:recurring.csv not found, creating new dataframe.
+2024-04-24 02:19:54,486:ERROR:recurring.csv not found, creating new dataframe.
+2024-04-24 02:19:54,564:ERROR:recurring.csv not found, creating new dataframe.
+2024-04-24 02:19:54,571:INFO:User sumeet logged in.
+2024-04-24 02:19:54,635:ERROR:recurring.csv not found, creating new dataframe.
+2024-04-24 02:20:03,556:ERROR:recurring.csv not found, creating new dataframe.
+2024-04-24 02:20:06,140:ERROR:recurring.csv not found, creating new dataframe.
+2024-04-24 02:20:12,190:ERROR:recurring.csv not found, creating new dataframe.
+2024-04-24 02:20:12,415:ERROR:recurring.csv not found, creating new dataframe.
+2024-04-24 02:20:12,429:INFO:Viewed account info for 2.0.
+2024-04-24 02:20:16,937:ERROR:recurring.csv not found, creating new dataframe.
+2024-04-24 02:20:20,926:ERROR:recurring.csv not found, creating new dataframe.
+2024-04-24 02:20:21,010:ERROR:recurring.csv not found, creating new dataframe.
+2024-04-24 02:20:24,084:ERROR:recurring.csv not found, creating new dataframe.
+2024-04-24 02:20:29,478:ERROR:recurring.csv not found, creating new dataframe.
+2024-04-24 02:20:30,664:ERROR:recurring.csv not found, creating new dataframe.
+2024-04-24 02:20:30,672:WARNING:Attempted to view non-existing account 2.0.
+2024-04-24 02:20:34,670:ERROR:recurring.csv not found, creating new dataframe.
+2024-04-24 02:20:34,754:ERROR:recurring.csv not found, creating new dataframe.
+2024-04-24 02:20:34,765:INFO:Viewed account info for 3.0.
+2024-04-24 02:20:39,508:ERROR:recurring.csv not found, creating new dataframe.
+2024-04-24 02:20:45,334:ERROR:recurring.csv not found, creating new dataframe.
+2024-04-24 02:20:52,572:ERROR:recurring.csv not found, creating new dataframe.
+2024-04-24 02:20:57,161:ERROR:recurring.csv not found, creating new dataframe.
+2024-04-24 02:21:01,326:ERROR:recurring.csv not found, creating new dataframe.
+2024-04-24 11:47:48,865:INFO:User sumeet logged in.
+2024-04-24 11:48:33,976:INFO:User sumeet logged in.
+2024-04-24 11:48:51,648:INFO:Withdrawal of 100.0 from account 1.0.
+2024-04-24 11:48:56,336:INFO:Viewed account info for 1.0.
+2024-04-24 11:49:19,548:INFO:Deposit of 1000000.0 to account 1.0.
+2024-04-24 11:49:26,778:INFO:Viewed account info for 1.0.
+2024-04-24 11:49:46,762:INFO:Viewed account info for 1.0.
+2024-04-25 14:06:21,897:INFO:User sumeet logged in.
+2024-04-25 14:07:22,660:INFO:Deposit of 100000.0 to account 1.0.
+2024-04-25 14:07:37,271:INFO:Withdrawal of 5000.0 from account 2.0.
+2024-04-25 14:07:56,060:INFO:Transfer of 100000.0 from 1.0 to 2.0.
+2024-04-25 14:08:04,621:INFO:Viewed account info for 1.0.
+2024-04-25 14:08:10,572:INFO:Viewed account info for 2.0.
+2024-04-25 14:18:10,214:INFO:User sumeet logged in.
